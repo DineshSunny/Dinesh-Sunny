@@ -15,7 +15,7 @@
 ---
 
 ### 🔥 Current Project
-**IdeaForge Hackathon 2026**  
+**VIZAG JAMHUB WEBSITE**  
 Working across:
 - AI Engineering  
 - Voice AI  
